@@ -1,3 +1,5 @@
 {
-  "status": "success",
+  "id": 1,
+  "title": "Deneme Blog",
+  "status": "active"
 }
